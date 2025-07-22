@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+    background: #e8f5e9;
+    color: #333;
+  }
+  .logo {
+    width: 100px;
+  }
+  nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: green;
+  }
+  .hero {
+    background: #a5d6a7;
+    padding: 2em;
+    text-align: center;
+  }
+  .gallery-slider img {
+    width: 100%;
+    display: none;
+  }
+  .gallery-slider img:first-child {
+    display: block;
+  }  
